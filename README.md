@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jhuliosc
+- 👋 Hi, I’m Julio Cesar
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT and NODEJS. 
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on JAVASCRIPT
